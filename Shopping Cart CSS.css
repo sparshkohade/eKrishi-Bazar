@@ -125,6 +125,7 @@ body{
 	.cart-total{
 		margin-left: 0;
 		margin-bottom: 20px;
+	}
 }
 @media screen and (max-width: 12220px){
 	.container{
